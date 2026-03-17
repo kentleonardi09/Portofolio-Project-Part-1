@@ -15,6 +15,6 @@ Each task is presented with a description, an explanation of the concept, and pr
 ## Task List
 * [Question 4: Discover a Vulnerable Website](./Question%204%20Proof%20of%20Work/)
 * [Question 5: Discover Cryptographic Implementation used online](./Question%205/)
-
+* [Question 6: Discover Cryptographic Implementation Offline (7-Zip)](./Question%206/)
 * [Question 7: 7.	Discover cryptography used in modern networks (VPN)](./Question%207/)
 
