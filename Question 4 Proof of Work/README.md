@@ -1,4 +1,4 @@
-## Question 4 Proof of Work
+## Question 4 
 
 ## Description
 I accessed the website using the HTTP version (http://www.china.com.cn) and noticed that the browser labeled the connection as **"Not Secure."** I also checked the site with the browser’s developer tools, which confirmed that the connection does not use HTTPS encryption. This means that any data sent between the browser and the website is sent in plain text and could be intercepted.
