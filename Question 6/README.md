@@ -8,5 +8,5 @@ To prove that 7-Zip is a reliable tool for offline security, I looked up its off
 
 The screenshot below shows the official site confirming this feature. This research gave me the confidence that using 7-Zip isn't just "hiding" a file, but actually locking it with strong cryptography.
 
-(![WhatsApp Image 2026-03-17 at 4 26 14 PM](https://github.com/user-attachments/assets/c859a659-f8f1-49cd-9164-f21d04395c87)
-)
+![WhatsApp Image 2026-03-17 at 4 26 14 PM](https://github.com/user-attachments/assets/c859a659-f8f1-49cd-9164-f21d04395c87)
+
