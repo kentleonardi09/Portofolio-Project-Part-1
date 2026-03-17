@@ -17,4 +17,5 @@ Each task is presented with a description, an explanation of the concept, and pr
 * [Question 5: Discover Cryptographic Implementation used online](./Question%205/)
 * [Question 6: Discover Cryptographic Implementation Offline (7-Zip)](./Question%206/)
 * [Question 7: 7.	Discover cryptography used in modern networks (VPN)](./Question%207/)
+* [Question 8: Cryptography in IoT Devices (Wi-Fi)](./Question%208/)
 
