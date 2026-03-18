@@ -19,7 +19,7 @@ Each task is presented with a description, an explanation of the concept, and pr
 * [Question 7: 7.	Discover cryptography used in modern networks (VPN)](./Question%207/)
 * [Question 8: Cryptography in IoT Devices (Wi-Fi)](./Question%208/)
 * [Question 9: Online Privacy Techniques (Tracking Protection)](./Question%209/)
-* [Question 19: Professional Community (UWA Computer Club)](./Question%2019/)
+* [Question 19: Join a CS/DS/cybersecurity club (UWA Computer Club)](./Question%2019/)
 * [Question 20: Cybersecurity Event Discussion (Notre Dame Ransomware)](./Question%2020/)
 * [Question 21: Online Cybersecurity Discussion (Phishing Mechanics)](./Question%2021/)
 * [Question 24: Teaching Family (Phishing Awareness)](./Question%2024/)
