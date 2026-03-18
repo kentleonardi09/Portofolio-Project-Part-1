@@ -23,5 +23,5 @@ Each task is presented with a description, an explanation of the concept, and pr
 * [Question 21: Online Cybersecurity Discussion (Phishing Mechanics)](./Question%2021/)
 * [Question 24: Teaching Family (Phishing Awareness)](./Question%2024/)
 * [Question 29: AI Media Analysis and Detection](./Question%2029/)
-* [Question 30: AI Media Analysis and Detection](./Question%2030/)
+* [Question 30: Complete an online cybersecurity module](./Question%2030/)
 
