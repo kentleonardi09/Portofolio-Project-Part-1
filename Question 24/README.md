@@ -1,4 +1,4 @@
-# Question 22: Teach Family About a Cybersecurity Topic
+# Question 24: Teach Family About a Cybersecurity Topic
 
 ## Description
 I conducted an informal educational session for my family focusing on **Phishing Scams**. I explained how cybercriminals use deceptive emails, SMS messages (smishing), and fraudulent websites to trick individuals into revealing sensitive information like passwords and financial details.
