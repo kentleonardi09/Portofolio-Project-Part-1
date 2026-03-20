@@ -22,7 +22,7 @@ Each task is presented with a description, an explanation of the concept, and pr
 * [Question 10: Discover a Privacy Technique Used Offline (Virtual Vault)](./Question%2010/README.md)
 * [Question 18: AI Hallucinations (Link Fabrication)](./Question%2018/README.md)
 * [Question 19: Join a CS/DS/cybersecurity club (UWA Computer Club)](./Question%2019/)
-* [Question 20: Cybersecurity Event Discussion (Notre Dame Ransomware)](./Question%2020/)
+* [Question 20: Cybersecurity Discussion (Notre Dame)](./Question%2020/README.md)
 * [Question 21: Online Cybersecurity Discussion (Phishing Mechanics)](./Question%2021/)
 * [Question 24: Teaching Family (Phishing Awareness)](./Question%2024/)
 * [Question 29: AI Media Analysis and Detection](./Question%2029/)
