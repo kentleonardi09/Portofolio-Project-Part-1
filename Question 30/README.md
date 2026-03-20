@@ -10,3 +10,5 @@ For this task, I identified a publicly available AI-generated image created by *
 <img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/f2fe29cb-5ec3-48d2-8401-7b117f43ccfb" />
 <img width="1600" height="811" alt="image" src="https://github.com/user-attachments/assets/3ad48e98-bac2-4b39-a340-525062c39fa7" />
 <img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/a9378d59-98ae-447f-86be-44450647b0a6" />
+<img width="439" height="549" alt="image" src="https://github.com/user-attachments/assets/c3295eaf-a55f-41e3-8f28-9f0ae95b7aeb" />
+
