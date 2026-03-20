@@ -20,6 +20,7 @@ Each task is presented with a description, an explanation of the concept, and pr
 * [Question 8: Cryptography in IoT Devices (Wi-Fi)](./Question%208/)
 * [Question 9: Online Privacy Techniques (Tracking Protection)](./Question%209/)
 * [Question 10: Discover a Privacy Technique Used Offline (Virtual Vault)](./Question%2010/README.md)
+* [Question 18: AI Hallucinations (Link Fabrication)](./Question%2018/README.md)
 * [Question 19: Join a CS/DS/cybersecurity club (UWA Computer Club)](./Question%2019/)
 * [Question 20: Cybersecurity Event Discussion (Notre Dame Ransomware)](./Question%2020/)
 * [Question 21: Online Cybersecurity Discussion (Phishing Mechanics)](./Question%2021/)
