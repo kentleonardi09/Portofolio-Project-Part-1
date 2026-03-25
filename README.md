@@ -12,19 +12,27 @@ The repository includes work such as identifying vulnerable websites, examining 
 ## Structure
 Each task is presented with a description, an explanation of the concept, and proof in the form of screenshots or technical observations.
 
+# Cybersecurity Portfolio – Kent Leonardi
+
+This repository contains my cybersecurity portfolio tasks, with each question linked to its corresponding folder or README for detailed work.
+
 ## Task List
+
+* [Question 1: Discover Security Concepts Used on Campus](./Question%201/README.md)
+* [Question 2: Discover Security Concepts Used in Public Spaces](./Question%202/README.md)
+* [Question 3: Discover Security Concepts Used in My Home](./Question%203/README.md)
 * [Question 4: Discover a Vulnerable Website](./Question%204%20Proof%20of%20Work/)
-* [Question 5: Discover Cryptographic Implementation used online](./Question%205/)
+* [Question 5: Discover Cryptographic Implementation Used Online](./Question%205/)
 * [Question 6: Discover Cryptographic Implementation Offline (7-Zip)](./Question%206/)
-* [Question 7: Discover cryptography used in modern networks (VPN)](./Question%207/)
+* [Question 7: Discover Cryptography Used in Modern Networks (VPN)](./Question%207/)
 * [Question 8: Cryptography in IoT Devices (Wi-Fi)](./Question%208/)
 * [Question 9: Online Privacy Techniques (Tracking Protection)](./Question%209/)
 * [Question 10: Discover a Privacy Technique Used Offline (Virtual Vault)](./Question%2010/README.md)
 * [Question 18: AI Hallucinations (Link Fabrication)](./Question%2018/README.md)
-* [Question 19: Join a CS/DS/cybersecurity club (UWA Computer Club)](./Question%2019/)
+* [Question 19: Join a CS/DS/Cybersecurity Club (UWA Computer Club)](./Question%2019/)
 * [Question 20: Cybersecurity Discussion (Notre Dame)](./Question%2020/README.md)
 * [Question 21: Online Cybersecurity Discussion (Phishing Mechanics)](./Question%2021/)
 * [Question 24: Teaching Family (Phishing Awareness)](./Question%2024/)
 * [Question 29: AI Media Analysis and Detection](./Question%2029/)
-* [Question 30: Complete an online cybersecurity module](./Question%2030/)
+* [Question 30: Complete an Online Cybersecurity Module](./Question%2030/README.md)
 
