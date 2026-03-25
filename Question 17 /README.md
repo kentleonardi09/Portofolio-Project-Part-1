@@ -58,6 +58,7 @@ Proof of Discovery
 <img width="1179" height="1522" alt="image" src="https://github.com/user-attachments/assets/01e4ac1b-6a05-4249-a4f8-e1da3ea4bef6" />
 <img width="1179" height="1016" alt="image" src="https://github.com/user-attachments/assets/04326a88-8d6e-4eba-b328-66616a384643" />
 <img width="1167" height="1463" alt="image" src="https://github.com/user-attachments/assets/1841c877-937c-4a8b-aab9-76160152d226" />
+<img width="1179" height="1418" alt="image" src="https://github.com/user-attachments/assets/988587c8-041c-4329-aca3-e9129470bf47" />
 <img width="1179" height="1259" alt="image" src="https://github.com/user-attachments/assets/fead332c-653b-4278-8346-661f4c9db092" />
 <img width="1179" height="1168" alt="image" src="https://github.com/user-attachments/assets/d5877e83-c387-470d-94ca-0287abc33073" />
 <img width="1179" height="1357" alt="image" src="https://github.com/user-attachments/assets/c29dd974-ee68-4940-b904-544933808719" />
