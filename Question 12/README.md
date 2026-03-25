@@ -33,6 +33,6 @@ This device detects motion and triggers an alarm when movement is detected. Unli
 <img width="1179" height="1519" alt="image" src="https://github.com/user-attachments/assets/f97ba8f2-9cd0-436f-8c3d-6bac0524afe7" />
 <img width="1179" height="1538" alt="image" src="https://github.com/user-attachments/assets/93157863-1d71-4a97-9298-3c739699c5ee" />
 <img width="1179" height="1059" alt="image" src="https://github.com/user-attachments/assets/aed9cdc8-5510-484f-8ffc-e13103c2ae97" />
-<img width="1179" height="1059" alt="image" src="https://github.com/user-attachments/assets/212b574d-47eb-47c3-8a9f-d1a6329e2a3b" />
+<img width="1037" height="1227" alt="image" src="https://github.com/user-attachments/assets/ce8f1a15-4740-441e-966b-a1c1b1cd8214" />
 
 
