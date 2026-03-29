@@ -19,9 +19,9 @@ Here this is where I used Gmail and relevant observation of emails being tagged 
 
 d. Security Cameras with Facial Recognition AI
 
-e. I unlocked an AI-enabled device using its face biometrics (recognition), indicating that AI would use facial feature recognition to verify identity in real time.
+I unlocked an AI-enabled device using its face biometrics (recognition), indicating that AI would use facial feature recognition to verify identity in real time.
 
-Automated Vulnerability Scanners with AI
+e. Automated Vulnerability Scanners with AI
 
 I used Chrome Safety Check to look for security issues, demonstrating how automated tools identify security weaknesses like weak passwords and insecure settings.
 
