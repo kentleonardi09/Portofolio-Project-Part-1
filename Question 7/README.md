@@ -1,7 +1,11 @@
-# Question 7: Discover Cryptography used in Modern Networks
+# Question 7
 
-## Description
-I explored how VPNs (Virtual Private Networks) use cryptography to secure internet traffic over modern networks. Using Turbo VPN, I demonstrated how data sent between my device and the VPN server is encrypted. This prevents eavesdroppers on public or unsecured networks from accessing my information, ensuring both confidentiality and integrity.
+## Title
+Discover Cryptography Used in Modern Networks
+
+## Explanation
+Using Turbo VPN, I discussed how virtual private networks (VPNs) use cryptography to secure internet traffic in modern networks and that any data being sent between me and the VPN server is encrypted, so malicious eavesdroppers on public or unsecured networks (or people sitting on my own network if it does not take security measures) do not glean sensitive information from me and allows both confidentiality and integrity.
+
 
 ## Proof of Research
 
