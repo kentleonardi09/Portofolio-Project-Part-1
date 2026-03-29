@@ -1,15 +1,22 @@
-Question 2: Discover Security Concepts Used in Public Spaces
+# Question 2
 
-Explanation
+## Title
+Discover Security Concepts Used in Public Spaces
 
-a. Confidentiality – Library Online Accounts  
-Public libraries provide online accounts for reservations, borrowing, and digital resources. Users log in with credentials, sometimes with MFA, ensuring only the account holder can access personal information. This demonstrates confidentiality, similar to encryption and access control in cybersecurity.
+## Explanation
 
-b. Integrity – Police Patrols  
-Police patrol public areas like malls, streets, and transport hubs. They monitor and record events, deterring damage or misconduct. This demonstrates integrity, like audit logs and monitoring in cybersecurity that prevent unauthorized changes.
+a. Confidentiality: Online Library Accounts
 
-c. Availability – Alarms & Emergency Response  
-Public buildings have fire alarms, emergency exits, panic buttons, and response systems. These systems must be accessible and operational in emergencies, demonstrating availability, similar to backups and disaster recovery in cybersecurity.
+Libraries give you online accounts to reserve, borrow and access digital offerings. Users are authenticated by their credentials (often with multi-factor authentication (MFA)), giving the assurance that only the account holder can access personal data. The privacy heresimilar to encryption and access control in cybersecurityillustrates confidentiality.
+
+b. Integrity: Police Patrols
+
+Police are present in public spaces — malls, streets and transport hubs. They track and document events that would threaten further damage or misconduct. Proven right, just like audit logs and monitoring in cybersecurity that prevent unauthorized changes.
+
+c. Accessibility: Alarms and Emergency Response
+
+Fire alarms, emergency exits, panic buttons and response systems are enabling the average citizen to cope effectively. These systems need to be available and functional in an emergency, which is also a form of availability, similarly as backups and disaster recovery is to cyber security.
+
 
 Proof of Discovery
 ![WhatsApp Image 2026-03-25 at 12 13 45 PM](https://github.com/user-attachments/assets/ac791576-e744-4e1f-8156-e1b9d6f119fd)
