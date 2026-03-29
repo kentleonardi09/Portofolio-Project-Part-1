@@ -1,58 +1,92 @@
-# Question 17: Discover 10 Different Types of Locks in Use
+# Question 17
 
-Explanation
+## Title
+Discover 10 Different Types of Locks in Use
 
-a. Padlock  
-- **What it is:** A portable U-shaped lock.  
-- **Where used:** Bicycle chains, lockers, gates, storage boxes.  
-- **Why different:** Removable and reusable on multiple items.
+## Explanation
 
-b. Deadbolt Lock  
-- **What it is:** A bolt that slides into the door frame.  
-- **Where used:** Front doors of homes or flats.  
-- **Why different:** Offers strong physical security; difficult to force open.
+a. Padlock
 
-c. Knob Lock  
-- **What it is:** Lock integrated into a door knob.  
-- **Where used:** Interior doors like bedrooms and bathrooms.  
-- **Why different:** Convenient but less secure than a deadbolt.
+What it is: A movable U-shaped lock.
 
-d. Lever Handle Lock  
-- **What it is:** Lock with a lever handle.  
-- **Where used:** Offices, schools, hospitals, public buildings.  
-- **Why different:** Easier to operate, suitable for reduced hand strength.
+Use it for: Bicycle chains, lockers, gates, storage boxes.
 
-e. Cam Lock  
-- **What it is:** Cylindrical lock turning a metal cam.  
-- **Where used:** Filing cabinets, mailboxes, lockers, drawers.  
-- **Why different:** Designed for small storage spaces, not doors.
+What different: Removable and reusable across different pieces.
 
-f. Electronic Lock  
-- **What it is:** Opens via keypad, card, or biometrics.  
-- **Where used:** Hotel rooms, offices, secure facilities.  
-- **Why different:** No physical keys; can track access logs.
+b. Deadbolt Lock
 
-g. Mortise Lock  
-- **What it is:** Heavy-duty lock inside a door pocket.  
-- **Where used:** Commercial buildings, older apartments, high-security doors.  
-- **Why different:** Mechanism inside door; stronger and more durable.
+What it is: A bar that fits into the door frame.
 
-h. Rim Lock  
-- **What it is:** Surface-mounted lock.  
-- **Where used:** Older residential doors, sheds, internal doors.  
-- **Why different:** Easier to install on older doors.
+Where: Front doors of homes or flats.
 
-i. Smart Lock  
-- **What it is:** Lock controlled via smartphone or network.  
-- **Where used:** Modern homes, smart apartments, short-term rentals.  
-- **Why different:** Combines physical locking with digital access and remote control.
+Why different: Strong physical security; hard to pick open.
 
-j. Combination Lock  
-- **What it is:** Opens with numbers or symbols instead of a key.  
-- **Where used:** Gym lockers, school lockers, luggage, small safes.  
-- **Why different:** Access via memorized code, no keys needed.
+c. Knob Lock
 
-Proof of Discovery
+What it is: Lock built into a door knob.
+
+Where used: Interior doors such as bedrooms and bathrooms.
+
+Why different: More convenient but less secure than a dead bolt
+
+d. Lever Handle Lock
+
+What it is: Lever handle lock.
+
+Common locations: Offices, schools, hospitals, public buildings.
+
+Why different: Simple to use, designed for less hand strength.
+
+e. Cam Lock
+
+What it is: A cylindrical lock that turns a metal cam.
+
+Where to use: Filing cabinets, mailboxes, lockers, drawers.
+
+Why different.: Made for small storage areas, not doors.
+
+f. Electronic Lock
+
+What it is: Unlocks with keypad, card or biometrics.
+
+Used in: Hotel rooms, offices, secure facilities.
+
+Why it’s different: No physical keys; can track access logs.
+
+g. Mortise Lock
+
+What it is: Reinforced lock within a door pocket.
+
+Where is it used: Commercials buildings, older apartments, high-security doors.
+
+Why different: Working mechanism inside door; robust and rugged.
+
+h. Rim Lock
+
+What it is: Surface-mounted lock.
+
+Common Uses: Older residential doors, sheds, internal doors.
+
+Why different: Installation could be easier on older doors.
+
+i. Smart Lock
+
+What it is: Smartphone- or network-controlled lock.
+
+Where it’s used: Newer homes, smart apartments, short-term rentals.
+
+Why different: Pairs physical locking with digital access and remote control.
+
+j. Combination Lock
+
+What it is: Unlocks with digits or characters rather than a key.
+
+Where to use it: Gym lockers, School lockers, Luggage, Small safes.
+
+What’s different: Access through a memorized digital code; no keys necessary.
+
+
+## Proof of Discovery
 <img width="972" height="1600" alt="image" src="https://github.com/user-attachments/assets/631f48bb-0415-41f0-9959-f231ff6fb52b" />
 <img width="1179" height="1551" alt="image" src="https://github.com/user-attachments/assets/6348a2fe-3c5f-4805-8dcf-8dbfd6e85da5" />
 <img width="1179" height="1522" alt="image" src="https://github.com/user-attachments/assets/01e4ac1b-6a05-4249-a4f8-e1da3ea4bef6" />
