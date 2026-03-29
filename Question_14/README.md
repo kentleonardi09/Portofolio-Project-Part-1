@@ -1,26 +1,29 @@
-# Question 14: Discover 5 AI-enabled Security Solutions
+# Question 14
 
-Explanation
+## Title
+Discover 5 AI-Enabled Security Solutions
+
+## Explanation
 
 a. AI Threat Detection
 
-* I used Avast Free Antivirus to run a scan, showing how AI detects threats by analysing system activity and identifying suspicious patterns.
+For instance, I ran a scan on my system with Avast Free Antivirus which demonstrated how AI can detect threats through scanning for activity in your system and identifying suspicious patterns.
 
 b. Behavioural Analytics Software
 
-* I checked my Google account security activity, showing how AI analyzes login behaviour such as devices and locations to detect unusual access.
+I looked at the activity when I signed in to my Google account, some of which indicated how an AI takes note of login data such as devices and locations to help identify anything strange.
 
-c. AI-Powered Phishing Detection Tools
+c. Phishing Detection Tools Driven by AI
 
-* I used Gmail and observed emails being marked as spam, showing how AI detects phishing attempts based on content and patterns.
+Here this is where I used Gmail and relevant observation of emails being tagged as spam which helps in identifying the content pattern by AI to detect phishing attempts.
 
-d. Facial Recognition AI Security Cameras
+d. Security Cameras with Facial Recognition AI
 
-* I used my device’s face recognition feature to unlock it, showing how AI verifies identity using facial features in real time.
+e. I unlocked an AI-enabled device using its face biometrics (recognition), indicating that AI would use facial feature recognition to verify identity in real time.
 
-e. Automated Vulnerability Scanners with AI
+Automated Vulnerability Scanners with AI
 
-* I used Chrome Safety Check to scan for security issues, showing how automated tools detect vulnerabilities such as weak passwords and unsafe settings.
+I used Chrome Safety Check to look for security issues, demonstrating how automated tools identify security weaknesses like weak passwords and insecure settings.
 
 Proof of Discovery
 ![WhatsApp Image 2026-03-25 at 11 47 55 PM](https://github.com/user-attachments/assets/e257e27c-54ad-45d2-8466-2cdf3ad89050)
