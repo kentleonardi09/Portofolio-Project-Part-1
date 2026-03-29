@@ -1,7 +1,11 @@
-## Question 4 
+# Question 4
 
-## Description
-I accessed the website using the HTTP version (http://www.china.com.cn) and noticed that the browser labeled the connection as **"Not Secure."** I also checked the site with the browser’s developer tools, which confirmed that the connection does not use HTTPS encryption. This means that any data sent between the browser and the website is sent in plain text and could be intercepted.
+## Title
+Discover a Vulnerable Website
+
+## Explanation
+I opened the website using HTTP (http://www.china.com.cn) and saw in my browser that the connection was "Not Secure," moreover, I also checked the site with developer tools of the browser, and it was confirmed that there is no HTTPS encryption on the way from your computer to this site: any data we transferred will go without an additional protection layer of encryption between our browser and the web server, so any attacker who can intercept us would be able to read our communications.
+
 
 ## Proof of Work
 ![WhatsApp Image 2026-03-17 at 3 29 53 PM](https://github.com/user-attachments/assets/2a146674-e81b-4423-936b-dd9cf8e73902)
