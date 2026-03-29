@@ -1,7 +1,11 @@
-# Question 30: Complete an online cybersecurity module.
+# Question 30
 
-## Description
-For this task, I identified a publicly available AI-generated image created by **DALL·E 3** from OpenAI’s official gallery. To verify its origin, I used **Hive Moderation**, a specialized AI detection tool designed to identify synthetic media. These tools look for "digital signatures" and pixel-level inconsistencies that are characteristic of generative models but absent in natural photography.
+## Title
+Complete an Online Cybersecurity Module
+
+## Explanation
+The online cybersecurity module I undertook as part of this task addressed a number of core principles, including the ability to spot phishing attacks, understanding how to safely use the internet and common cyber threats, consequently enabling me to achieve proficiency in protecting personal information and responding appropriately to possible security threats in real-life situations.
+
 
 ## Proof of Discovery
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/e1d59d6f-ad14-4428-8e5a-614d41224bed" />
