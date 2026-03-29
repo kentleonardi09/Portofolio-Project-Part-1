@@ -1,26 +1,30 @@
-# Question 13: Discover 5 Unique Online Security Tools
+# Question 13
 
-Explanation
+## Title
+Discover 5 Unique Online Security Tools
 
-a. Cloud-based Antivirus / Endpoint Protection
+## Explanation
 
-* Software that scans for malware using cloud-based updates, allowing real-time threat detection.
+a. Cloud-Hosted Antivirus / Endpoint Protection
 
-b. Virtual Private Network (VPN)
+Antivirus programs that scan for malware based on cloud updates, as a result can have updated protection against threats instantly.
 
-* A tool that encrypts internet traffic and hides the user’s IP address for secure browsing.
+b. VPN (Virtual Private Network)
+
+A service that encrypts internet traffic and conceals the user’s IP address to facilitate secure browsing.
 
 c. Password Manager
 
-* A tool that securely stores and manages passwords in an encrypted vault.
+A password manager securely stores and encrypts passwords in a vault.
 
 d. Two-Factor Authentication (2FA)
 
-* A security method that requires an additional verification step beyond a password.
+Security that requires two forms of identification to access data.
 
-e. Web Application Firewall (WAF)
+E. Web Application Firewall (WAF)
 
-* A system that filters and blocks malicious web traffic to protect applications.
+It is a system that filters and blocks malicious web traffic to protect applications.
+
 
 Proof of Discovery
 ![WhatsApp Image 2026-03-25 at 10 20 44 PM](https://github.com/user-attachments/assets/2c3a3651-0c14-4cfd-bd88-5c82e4e7f624)
