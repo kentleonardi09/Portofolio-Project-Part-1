@@ -1,7 +1,11 @@
-# Question 19: Join a CS/DS/Cybersecurity Club
+# Question 19
 
-## Description
-I joined the **UWA Computer Club (UCC)** at the University of Western Australia. As a student-run organization, the UCC focuses on computing, programming, and cybersecurity, providing a platform for students to explore technology beyond the standard curriculum.
+## Title
+Join a CS/DS/Cybersecurity Club
+
+## Explanation
+Another opportunity that sparked my interest in technology was joining the UWA Computer Club (UCC) at the University of Western Australia; a student-run organisation focused on computing, programming and cybersecurity that offered activities and events for students to engage with technology and further develop their practical skills outside of a classroom environment.
+
 
 ## Proof
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/72d51f69-f65e-4100-8eec-4a3b59ba7e63" />
