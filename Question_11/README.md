@@ -1,26 +1,29 @@
-# Question 11: Discover 5 Unique Access Control Devices
+# Question 11
 
-Explanation
+## Title
+Discover 5 Unique Access Control Devices
+
+## Explanation
 
 a. Biometric Fingerprint Scanner
 
-* I used a fingerprint scanner to unlock a device, showing how access is granted using unique biometric data instead of a password or key.
+I unlocked a device with a fingerprint scanner, for instance, which was how access was determined via unique biometric data rather than a password or key.
 
 b. RFID Key Card
 
-* I used an RFID card by tapping it on a reader, showing how access is granted wirelessly without inserting a key or entering a code.
+I had used an RFID card, where I tapped it on a reader — this shows how access is granted wirelessly without inserting a key or entering a code.
 
-c. Smart Lock with Mobile App
+c. Smart lock with app
 
-* I used the Vingcard Mobile Access app to unlock a door with my phone, showing how access can be controlled digitally without a physical key.
+I unlocked a door with my phone using the Vingcard Mobile Access app, demonstrating how you can control access digitally rather than needing a physical key.
 
 d. Facial Recognition Terminal
 
-* I used a facial recognition system that scanned my face to allow access, showing how identity is verified without physical contact.
+I used a facial recognition system that scans my face to access it, an example of how identity can be verified without any physical touch.
 
 e. Keypad Entry Lock
 
-* I used a keypad lock by entering a PIN to unlock the door, showing how access is granted through a numeric code that can be easily changed.
+The keypad lock, by being unlocked with a PIN, demonstrates that this is also permission gained through numbers which can be altered with ease.
 
 Proof of Discovery
 <img width="1179" height="1643" alt="image" src="https://github.com/user-attachments/assets/6dfcb653-6d93-494a-84e1-e2bc04025338" />
