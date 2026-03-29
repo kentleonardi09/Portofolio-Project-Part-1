@@ -1,7 +1,10 @@
-# Question 8: Discover Cryptography used in IoT Devices
+# Question 8
 
-## Description
-I explored how Internet of Things (IoT) devices, such as smart home sensors and appliances, use cryptography to secure wireless communication. By examining my network properties, I identified the use of **WPA2/WPA3 encryption**. This protocol encrypts the "conversation" between the device and the router, ensuring that sensitive data transmitted within the home cannot be intercepted by attackers.
+## Title
+Discover Cryptography Used in IoT Devices
+
+## Explanation
+Through analyzing my network properties, I investigated how IoT devices like smart home sensors and appliances utilize cryptographic techniques to secure communications over the air when communicating with my router using WPA or WPA2/WPA3 encryption, thus preventing attackers from intercepting sensitive data sent within my home.
 
 ## Proof of Research
 
