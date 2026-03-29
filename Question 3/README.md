@@ -1,22 +1,23 @@
 # Question 3: Discover Security Concepts Used in My Home
 
+# Question 3
+
+## Title
+Discover Security Concepts Used in My Home
+
 ## Explanation
 
-### a. Confidentiality – Locks & Key Systems  
-Locks in my home ensure that only me and the people I live with, or anyone with a key, can enter. This helps protect our personal space and belongings from unauthorised access. This reflects confidentiality because only authorised individuals are allowed access, similar to how passwords or encryption protect sensitive data in cybersecurity.
+a. Confidentiality: Locks and Key Systems
 
----
+Locks at my home protect only me and the people I live with, or anyone given a key. This protects the privacy of our personal space and possessions against unauthorised access. Just as passwords or encryption protect sensitive data in cybersecurity, this reflects confidentiality as only authorized individuals are granted access.
 
-### b. Integrity – Home Monitoring Systems  
-The monitoring system in my home records events such as visitors arriving or any unusual activity. This allows us to review what actually happened if needed. This demonstrates integrity because the recorded footage provides an accurate and reliable record of events, similar to audit logs in cybersecurity that ensure data is not altered.
+b. Integrity: In-House Monitoring Systems
 
----
+At my home, the monitoring system will record things like visitors arriving or unusual activity. This enables us to revisit what transpired, when needed. This indicates integrity because the recorded footage acts as an honest and dependable documentation of events, just like audit logs in cyber security that ensure data hasn't been modified.
 
-### c. Availability – Smoke Alarms  
-Smoke alarms in my home detect smoke and immediately alert us if there is a potential fire. This ensures we can respond quickly to prevent damage. This reflects availability because the system is always ready to function when needed, similar to how systems in cybersecurity must remain operational.
+b. Accessibility: Smoke Alarms
 
----
-
+The smoke alarms in my house notice the presence of smoke and instantly notify us if there is a potential fire. This ensures we can respond quickly to avoid damage. Such means, system is always ready to act when needed, as in cybersecurity systems need to be operational all the time.
 ## Proof of Discovery
 
 ![WhatsApp Image 2026-03-25 at 11 06 28 AM](https://github.com/user-attachments/assets/d714df6a-0ba4-480c-bd56-45dd7772a0d7)
