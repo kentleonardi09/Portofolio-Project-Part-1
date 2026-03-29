@@ -1,7 +1,10 @@
-# Question 10: Discover a Privacy Technique Used Offline.
+# Question 10
 
-### Explanation
-For this task, I implemented an Offline Virtual Vault using Windows Disk Management. I created a **Virtual Hard Disk (VHDX)** with a fixed size of 100MB to act as an isolated storage container. After initializing the disk and creating a new volume, I was able to move sensitive files into this dedicated drive. To secure the data, I used **BitLocker drive encryption** (or by 'Detaching' the VHD), which ensures the volume is invisible and inaccessible to unauthorized users when unmounted.
+## Title
+Discover a Privacy Technique Used Offline
+
+## Explanation
+To do this, I created an offline virtual vault by creating a Virtual Hard Disk (VHDX) of 100MB fixed size using Windows Disk Management as a storage container and initializing the disk to create a new volume for sensitive files which it will contain, then I encrypted the data being stored with BitLocker attached to my operating system and detached the VHD so that it cannot be viewed or accessed by any unauthorised user allowing my privacy being showcased within task 6 - hidden secure vault used to store sensitive data.
 
 ### Proof of Discovery
 <img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/d3fe1bba-58a3-4b28-bcee-ec5891824bbc" />
