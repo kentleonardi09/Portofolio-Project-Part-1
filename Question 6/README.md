@@ -1,7 +1,11 @@
-# Question 6: Discover cryptographic implementation used offline
+# Question 6
 
-## Description
-I used 7-Zip, a file compression tool, to explore offline cryptography. When creating a compressed archive, 7-Zip allows you to set a password and enable encryption. This ensures that anyone without the correct password cannot access the files inside. This demonstrates how encryption protects sensitive data locally, similar to how it works online.
+## Title
+Discover Cryptographic Implementation Used Offline
+
+## Explanation
+Using 7-Zip, a software utility for file compression developed by Igor Pavlov it was interesting to explore offline cryptography on my local PC by creating an archive where password protection is enabled along with encryption which makes sure that anyone who enters the wrong password would not be able to access the files located inside of the archive thus showcasing how encryption protects sensitive data locally in a similar manner as online systems.
+
 
 ## Proof of Research
 
