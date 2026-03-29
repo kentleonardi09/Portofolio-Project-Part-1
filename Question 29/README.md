@@ -1,7 +1,10 @@
-# Question 29: Find a publicly available AI-generated image, video, or audio clip, use at least one detection or verification tool to analyse it. 
+# Question 29
 
-## Description
-For this task, I identified a publicly available AI-generated image created by **DALL·E 3** from OpenAI’s official gallery. To verify its origin, I used **Hive Moderation**, a specialized AI detection tool designed to identify synthetic media. These tools look for "digital signatures" and pixel-level inconsistencies that are characteristic of generative models but absent in natural photography.
+## Title
+Analyse an AI-Generated Media Using a Detection Tool
+
+## Explanation
+To do this, I found a publicly accessible AI-generated image from OpenAI’s official gallery made with their DALL·E 3 model and ran it in Hive Moderation, an AI Detection tool that checks digital signatures and pixel-level inconsistencies that generative models present however natural images never will.
 
 ## Proof of Discovery
 
