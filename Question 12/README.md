@@ -1,31 +1,30 @@
-# Question 12: Discover 5 Unique Offline Security Tools
+# Question 12
+
+## Title
+Discover 5 Unique Offline Security Tools
 
 ## Explanation
 
-### a. Portable Document Safe (Honeywell)  
-This is a portable document safe used to protect important physical documents and storage devices. Unlike door locks that prevent entry, this acts as a last line of defence by protecting contents even if the outer environment is compromised, such as during theft or fire.
+a. Portable Document Safe (Honeywell)
 
----
+A portable document safe designed to secure important physical documents and storage devices. Unlike door locks that block access, this becomes a last line of defence, safeguarding new stuff even if the outer environment is breached — such as in theft or fire.
 
-### b. Vintage Lever Padlock  
-This is a traditional mechanical padlock that can be attached to chains, gates, or lockers. It is portable and versatile, unlike fixed locks, allowing it to be used across different locations. It provides a flexible way to secure items without permanent installation.
+b. Vintage Lever Padlock
 
----
+This is a conventional mechanical padlock that can be secured to chains, gates or lockers. Unlike fixed locks, this one can be moved and used in multiple settings. It is a versatile method of securing items without permanent mounting.
 
-### c. Industrial T-Handle Compression Lock  
-This type of lock is commonly found on heavy-duty storage equipment. It works by compressing the door tightly into a seal, protecting against both unauthorized access and environmental factors like dust or rain. This makes it different from standard locks that mainly focus on access control.
+c. Industrial T-Handle Compression Lock
 
----
+These locks are most commonly found on heavy-duty storage equipment. It seals the door shut tightly, preventing not only unauthorized entry but also potentially unwanted environmental elements like dust or rain. This is in contrast to standard locks that are primarily about access control.
 
-### d. Residential Door Swing Limiter  
-A swing limiter is a simple locking mechanism that allows a door to be partially opened while still maintaining a level of security. Unlike typical locks that are either fully open or closed, this provides a controlled access point, allowing safe interaction without fully exposing the interior.
+d. Limit Doors From Being Opened at Home
 
----
+A swing limiter is a simple lock that lets you open the door without fully opening it while still acting as a security measure. Unlike conventional locks that are fully open or close, this gives a controlled point of access, building safe communication without exposing the inside completely.
 
-### e. Combined Alarm and PIR Sensor  
-This device detects motion and triggers an alarm when movement is detected. Unlike physical locks that prevent access, this tool focuses on detection and response, alerting occupants to potential intrusions and acting as a deterrent.
+e. Alarm and PIR Sensor in a 1 Package
 
----
+This device detects movement and activates an alarm when it senses motion. Unlike physical locks that deny access to intruders, this tool is focused on detection and response, notifying occupants of potential break-ins and acting as a deterrent.
+
 
 ## Proof of Discovery
 
