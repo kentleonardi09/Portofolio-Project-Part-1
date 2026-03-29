@@ -1,20 +1,24 @@
 # Defensive Cybersecurity Portfolio
 
-## Overview
-This repository contains Kent Leonardi’s Defensive Cybersecurity Portfolio Project for the unit. It is used to organise and present proofs of work completed during the first part of the project.
+Overview
 
-## Purpose
-The purpose of this portfolio is to demonstrate an understanding of defensive cybersecurity concepts through practical tasks, supported by evidence and analysis.
+Defensive Cybersecurity Portfolio project (for the unit) This repository is Kent Leonardi’s Defensive Cybersecurity Portfolio Project. It acts as the way to translate and showcase evidence of work done in that first portion of the project.
 
-## Contents
-The repository includes work such as identifying vulnerable websites, examining the use of HTTPS and TLS encryption, and providing supporting screenshots and explanations for each task.
+Purpose
 
-## Structure
-Each task is presented with a description, an explanation of the concept, and proof in the form of screenshots or technical observations.
+This portfolio is designed to prove knowledge in defensive cybersecurity through practical exercises backed up by evidence and analysis.
 
-# Cybersecurity Portfolio – Kent Leonardi
+Contents
 
-This repository contains my cybersecurity portfolio tasks, with each question linked to its corresponding folder or README for detailed work.
+It covers work related to finding vulnerable websites, researching on HTTPS and TLS encryption usage, as well as screenshots and descriptions for the work performed in each task.
+
+Structure
+
+Each task is accompanied by its description, explanation of the concept and proof (screenshots or technical observations)
+
+Cybersecurity Portfolio – Kent Leonardi
+
+This repo has my tasks on cybersecurity portfolio, please find each question linked the folder or README that explains work.
 
 ## Task List
 * [Question 1](./Question 1/README.md)
