@@ -1,7 +1,10 @@
-# Question 5: Discover Cryptographic Implementation used online 
+# Question 5
 
-## Description
-I visited a website that uses HTTPS and saw the padlock icon in the browser. This shows the connection is secure. After looking at the security details, I confirmed that TLS is used to encrypt the data. This means the information sent between the browser and the website is protected.
+## Title
+Discover Cryptographic Implementation Used Online
+
+## Explanation
+I used a website that utilizes HTTPS and saw the little lock in the browser, which tells me all communications are encrypted over TLS, making sure anything sent between my browser and the website is safe from interception.
 
 ## Proof of Research
 ![UWA Security Proof](https://github.com/user-attachments/assets/090e1b45-fe87-4ae4-abf9-507001575ee3)
