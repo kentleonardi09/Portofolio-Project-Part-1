@@ -1,14 +1,20 @@
-# Question 18: Discover two hallucination cases when using a generative AI system.
+# Question 18
 
-### Explanation:
+## Title
+Discover Two Hallucination Cases When Using a Generative AI System
 
-**a. Fabricated Government Documentation Link**
-AI hallucination occurs when a generative AI system produces URLs for official documents that sound legitimate but are non-existent. For example, when asked for a direct PDF download of an "Official 2026 Australian Government Cyber Security Strategy," the AI generated a realistic-looking link following official `.gov.au` naming conventions. While the link appeared credible due to the domain structure, clicking it resulted in a "404 Not Found" error. This proves the AI fabricated a file path based on probability rather than verifying its live status.
+## Explanation
 
-**b. Non-Existent Regional Policy Framework**
-Another example of hallucination is when an AI generates a specific resource for a niche request, such as a "2026 Western Australia University Student Privacy & AI Ethics Framework." Upon verification via search engines, the specific document does not exist. Instead, the search results point to broader, older frameworks (like the 2024 AI Assurance Framework). This confirms the AI "invented" a more recent, student-specific title to appear helpful, which is a known AI behavior called sycophancy.
+a. Fake Government Document Link
 
-### Proof
+AI hallucination describes when generative AI systems create official-sounding URLs of real documents that do not exist. When asked, for example, to give a direct PDF download of an “Official 2026 Australian Government Cyber Security Strategy,” the A.I. produced a link that resembled the official . gov.au naming conventions. The link seemed credible based on the domain structure, but clicking it returned a “404 Not Found” error. This demonstrates the AI was likely to invent a path that made sense and guessed its live status.
+
+b. Regional Policy Framework Nonexistent
+
+Here’s another example of hallucination — when an AI creates some specific resource on a niche request, such as “2026 Western Australia University Student Privacy & AI Ethics Framework.” A search engine check indicates the document does not exist. Instead, search results point to more general, older frameworks (like the 2024 AI Assurance Framework). This verifies that the AI made up a newer, student-specific title to sound helpful, which is a known behaviour of AIs called sycophancy.
+
+
+### Proof of Discovery
 
 **Case A: 404 Error from Hallucinated Government Link**
 ![WhatsApp Image 2026-03-20 at 6 50 06 PM](https://github.com/user-attachments/assets/cc825928-fab8-42f3-b2f4-5baf6bf04514)
