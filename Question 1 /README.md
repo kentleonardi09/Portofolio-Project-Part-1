@@ -1,18 +1,19 @@
-Question 1: Discover Security Concepts Used on Campus
+# Question 1
 
-Explanation
+## Title
+Discover Security Concepts Used on Campus
 
-a. Confidentiality: Access Card System at UWA 
+## Explanation
 
-This includes many of the buildings and study spaces at the University of Western Australia: after usual operating hours students are still able to access their university access card to scan in. This is to ensure that certain facilities can only be accessed by authorised students and staff. The same principle applies to sharing of access credentials for restricted systems and information in cybersecurity, which prevents unverified users from accessing classified areas.
+### a. Confidentiality — Access Card System at UWA
+This includes many buildings and study spaces at the University of Western Australia. After usual operating hours, students can still access facilities using their university access card. This ensures that only authorised students and staff can enter certain areas. Similarly, in cybersecurity, confidentiality ensures that only authorised users can access sensitive information.
 
-b. Integrity: Student Grading System (LMS)
+### b. Integrity — Student Grading System (LMS)
+The LMS is the platform where students submit assignments, view course materials, and access marks and final grades. Changes can only be made by authorised lecturers or administrative staff once grades are finalised. This maintains integrity, ensuring academic records remain accurate and protected from unauthorised modifications.
 
-The LMS is the platform where students submit assignments, view course material and access marks and final grades. Changes can only be made by authorised lecturers or administrative staff once the grades have been finalised. Its integrity since it means that academic records are in place, unspoiled by unauthorised users like the data protection mechanisms which strive to keep correctness in the cybersecurity systems.
+### c. Availability — Student Connect Platform
+Student Connect is the online system used to enrol in units, view timetables, and manage academic services. It is designed to remain accessible and responsive, especially during peak periods like enrolment week. This demonstrates availability, ensuring systems remain reliable and accessible when needed.
 
-c. Availability: student connect platform
-
-Student Connect – the online system students use to enrol in units, view timetables and manage academic services. This ensures that the system is accessible and responsive at peak times, such as when all students log into the system during enrolment week. This indicated availability, because the system has to be both reliable and accessible anytime students need it -- much like how cybersecurity systems need to keep the service up so that it can be accessed at any times.
 
 Proof of Discovery
 ![WhatsApp Image 2026-03-25 at 12 03 07 PM](https://github.com/user-attachments/assets/cae5119e-d44e-461c-a03e-4c2513ebe93d)
